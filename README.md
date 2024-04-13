@@ -24,8 +24,8 @@ Over the past decade, I've had the privilege of working on a wide range of proje
 
 ## Connect With Me
 
-- **LinkedIn**: [Your LinkedIn](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/)
-- **GitHub**: [Your GitHub](https://medium.com/@kc_clintone/the-ultimate-guide-to-writing-a-great-readme-md-for-your-project-3d49c2023357)
+- **LinkedIn**: [My LinkedIn](https://github.com/Angah7)
+- **GitHub**: [My GitHub](https://github.com/Angah7)
 - **Portfolio**: 
 
 Feel free to reach out to me for collaborations or consultations. I'm always open to discussing new technologies and opportunities.
